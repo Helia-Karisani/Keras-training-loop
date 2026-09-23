@@ -207,4 +207,3 @@ Main Keras/TensorFlow components used:
 ## Summary
 
 This project is a step-by-step demonstration of custom neural network training in TensorFlow/Keras using the MNIST dataset. Part 1 introduces a manual training loop, Part 2 adds accuracy tracking, and Part 3 adds a custom callback for epoch-level logging. The notebook finishes with a standard Functional API classifier to compare custom training with the usual Keras workflow. The project is useful for understanding what happens inside model training rather than only using high-level training commands.
-```
